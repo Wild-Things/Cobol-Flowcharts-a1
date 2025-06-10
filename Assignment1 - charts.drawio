@@ -94,7 +94,7 @@
         <mxCell id="QD17FKgBwL-icGlesGAo-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-17" target="QD17FKgBwL-icGlesGAo-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-17" value="&lt;div&gt;206-PROMPT-FNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-17" value="&lt;div&gt;206-PROMPT-LNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-18" target="QD17FKgBwL-icGlesGAo-47">
@@ -103,7 +103,7 @@
         <mxCell id="QD17FKgBwL-icGlesGAo-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-18" target="QD17FKgBwL-icGlesGAo-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-18" value="&lt;div&gt;205-PROMPT-LNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-18" value="&lt;div&gt;205-PROMPT-FNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-69" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-19" target="QD17FKgBwL-icGlesGAo-53">
@@ -115,10 +115,10 @@
         <mxCell id="QD17FKgBwL-icGlesGAo-19" value="&lt;div&gt;207-PROMPT-SERVICE-YEARS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="215" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-20" value="&lt;div&gt;303-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-20" value="&lt;div&gt;301-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-642" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-21" value="&lt;div&gt;303-STORE-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-21" value="&lt;div&gt;302-STORE-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-515" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-32" target="QD17FKgBwL-icGlesGAo-55">
@@ -130,16 +130,16 @@
         <mxCell id="QD17FKgBwL-icGlesGAo-32" value="&lt;div&gt;208-WRITE-RECORD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="697" y="215" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-43" value="&lt;div&gt;303-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-43" value="&lt;div&gt;303-ACCEPT-DEPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-389" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-44" value="&lt;div&gt;303-STORE-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-44" value="304-STORE-DEPT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-262" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-47" value="&lt;div&gt;303-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-47" value="305-ACCEPT-FNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-133" y="317" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QD17FKgBwL-icGlesGAo-48" value="&lt;div&gt;303-STORE-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QD17FKgBwL-icGlesGAo-48" value="306-STORE-FNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-6" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-51" value="&lt;div&gt;303-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
