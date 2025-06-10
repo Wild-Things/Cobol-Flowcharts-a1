@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-7" value="&lt;div&gt;203-PROMPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-579" y="215" width="119" height="60" as="geometry" />
+          <mxGeometry x="-427" y="215" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-8" value="208-CLOSE-EMPLOYEE-LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="231" y="96" width="120" height="60" as="geometry" />
@@ -89,13 +89,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-16" value="&lt;div&gt;204-PROMPT-DEPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-319" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="-231" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-17" target="QD17FKgBwL-icGlesGAo-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-17" value="&lt;div&gt;206-PROMPT-LNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="188" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-18" target="QD17FKgBwL-icGlesGAo-47">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-18" value="&lt;div&gt;205-PROMPT-FNAME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-69" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-19" target="QD17FKgBwL-icGlesGAo-53">
           <mxGeometry relative="1" as="geometry" />
@@ -113,13 +113,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-19" value="&lt;div&gt;207-PROMPT-SERVICE-YEARS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="356" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-20" value="&lt;div&gt;301-ACCEPT-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-642" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="-490" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-21" value="&lt;div&gt;302-STORE-EMPLOYEE-ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-515" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="-363" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-32" target="QD17FKgBwL-icGlesGAo-55">
           <mxGeometry relative="1" as="geometry" />
@@ -128,37 +128,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-32" value="&lt;div&gt;208-WRITE-RECORD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-43" value="&lt;div&gt;303-ACCEPT-DEPT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-389" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="-301" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-44" value="304-STORE-DEPT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-262" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="-174" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-47" value="305-ACCEPT-FNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-133" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="-104" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-48" value="306-STORE-FNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="23" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-51" value="307-ACCEPT-LNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="124" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="86.5" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-52" value="308-STORE-LNAME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="213.5" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-53" value="309-ACCEPT-YEARS-OF-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="288" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-54" value="310-STORE-YEARS-OF-SERVICE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="415" y="317" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-55" value="311-WRITE-TO-FILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="633" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="486.5" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-56" value="202-PROMPT-USER-INPUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="317" width="120" height="60" as="geometry" />
+          <mxGeometry x="613.5" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QD17FKgBwL-icGlesGAo-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.566;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="QD17FKgBwL-icGlesGAo-17" target="QD17FKgBwL-icGlesGAo-52">
           <mxGeometry relative="1" as="geometry" />
